@@ -1,12 +1,7 @@
-<!--
-  COMO USAR:
-  1. Crie um repositório PÚBLICO com o MESMO nome do seu usuário do GitHub.
-  2. Envie este README.md e a pasta "assets" (banner.svg e about.svg) para a RAIZ do repositório.
-  3. O usuário já está preenchido. Falta ajustar apenas o link do LinkedIn e o e-mail.
--->
+
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Matheus Henrique Garcia" width="100%" />
+  <img src="banner" alt="Matheus Henrique Garcia" width="100%" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Matheus</h1>
