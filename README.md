@@ -88,28 +88,3 @@ Equipe da E.E. PEI José Gonçalves de Mendonça (Maracaí, SP).
   </picture>
 </p>
 
----
-
-## 📈 Gráfico de atividade
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matheus0967&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matheus0967&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true" />
-    <img alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=matheus0967&hide_border=true" />
-  </picture>
-</p>
-
----
-
-## 🗂️ Projetos
-
-Os projetos em destaque entram aqui conforme forem concluídos.
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| _Em breve_ | | |
-
----
-
-<p align="center"><sub>Aprendendo na prática, um commit por vez.</sub></p>
